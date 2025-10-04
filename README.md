@@ -33,7 +33,7 @@ I’m currently expanding into **DevOps** and **Cloud**, working with tools like
 ### 🏅 Certifications  
 
 - **[Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)**  
-- **[AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)**  
+- **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/81682679-c5dc-40ba-97b0-24c92bb3f27e/linked_in_profile)**  
 - **[HackerRank Java Certification](https://www.hackerrank.com/certificates)**  
 
 ---
