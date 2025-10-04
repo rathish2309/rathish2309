@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 About Me  
+### 👨‍💻 About Me
 
 I’m a QA Engineer with experience across **Web**, **API**, and **Mobile** test automation.  
 I work with **Java-based automation frameworks** — using **Selenium with Cucumber**, **Appium with TestNG**, and **Rest Assured** for API testing.  
