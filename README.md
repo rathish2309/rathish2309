@@ -15,8 +15,6 @@ I also leverage **GitHub Copilot** to enhance automation efficiency and framewor
 I’m currently expanding into **DevOps** and **Cloud**, working with tools like  
 `Docker`, `Kubernetes`, and `Jenkins`, and exploring modern approaches to optimize continuous testing and integration.  
 
-Looking ahead, I aim to pursue **CKAD** and **Terraform certifications**, achieve **Cloud Associate-level certifications**, and continuously **learn and upskill at every opportunity**.
-
 ---
 
 ### ⚙️ Tech Stack  
