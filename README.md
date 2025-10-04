@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Rathish Rajendran  
 
-🎯 **Test Automation Engineer | DevOps Learner | Cloud Certified (AWS & Azure)** 
+🎯 **Test Automation Engineer | DevOps Learner | Cloud Certified (AWS & Azure)**  
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/your-linkedin-username) 
+🔗 **[Connect with me on LinkedIn](https://www.linkedin.com/in/your-linkedin-username)** 🔹
+
 ---
 
 ### 🧠 About Me  
