@@ -19,16 +19,13 @@ I’m currently expanding into **DevOps** and **Cloud**, working with tools like
 ### ⚙️ Tech Stack  
 
 **Languages:**  
-☕ Java • 🐍 Python (basic) • 💻 JavaScript  
+☕ Java • 🐍 Python (basic)
 
 **Automation Tools:**  
 🧪 Selenium • 📱 Appium • 🌐 Rest Assured • 🧩 TestNG • 🍃 Cucumber  
 
 **DevOps & Cloud:**  
 🐳 Docker • ☸️ Kubernetes • 🔧 Jenkins • ☁️ AWS • 🔹 Azure  
-
-**Performance & Monitoring:**  
-📊 JMeter • 🧰 Postman • 📡 Elasticsearch • 🗄 Oracle  
 
 ---
 
@@ -38,39 +35,7 @@ I’m currently expanding into **DevOps** and **Cloud**, working with tools like
 |:--------------|:------|
 | **Microsoft Certified: Azure Fundamentals** | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="70"/> |
 | **AWS Certified Cloud Practitioner** | <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge.b89bfbf2f87a3b5db9c48a06c46c62a1e2b74cfe.png" width="70"/> |
-| **Docker for Beginners (Udemy Labs)** | <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="65"/> |
-| **HackerRank Java (Basic)** | <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="65"/> |
-
----
-
-### 🚀 Highlights  
-
-✅ Built and maintained automation frameworks for **Web**, **API**, and **Mobile**  
-✅ Improved test suite stability by upgrading **Appium v6 → v9**  
-✅ Refactored API automation to **Rest Assured (Java)** for better maintainability  
-✅ Contributed to **CI/CD automation** using Jenkins and Docker  
-✅ Leveraged **Go Cipot** to optimize and extend automation workflows  
-
----
-
-### 📊 GitHub Overview  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rathish2309&show_icons=true&theme=transparent&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rathish2309&theme=transparent&hide_border=true" width="48%" />
-</p>
-
----
-
-### ✨ Interests  
-
-- Test Automation & Framework Design  
-- DevOps + Cloud Integration  
-- Continuous Learning & Experimentation  
-
----
-
-> _“Quality isn’t just verified — it’s engineered.”_ ⚙️  
+| **HackerRank Java** | <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="65"/> |
 
 ---
 
