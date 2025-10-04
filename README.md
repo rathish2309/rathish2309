@@ -9,7 +9,7 @@
 
 I’m a QA Engineer with experience across **Web**, **API**, and **Mobile** test automation.  
 I work with **Java-based automation frameworks** — using **Selenium with Cucumber**, **Appium with TestNG**, and **Rest Assured** for API testing.  
-I also leverage **Go Cipot** to enhance automation efficiency and framework scalability.  
+I also leverage **Github Copilot** to enhance automation efficiency and framework scalability.  
 
 I’m currently expanding into **DevOps** and **Cloud**, working with tools like  
 `Docker`, `Kubernetes`, and `Jenkins`, and exploring modern approaches to optimize continuous testing and integration.
