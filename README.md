@@ -7,11 +7,11 @@
 
 ### 🧠 About Me  
 
-I’m a QA Engineer with hands-on experience across **Web**, **API**, and **Mobile** testing.  
-I specialize in **Java-based automation frameworks** and continuously explore **AI-assisted testing** and **DevOps integrations**.  
+I’m a QA Engineer with experience across **Web**, **API**, and **Mobile** test automation.  
+I specialize in **Java-based frameworks** using `Selenium`, `Appium`, `Rest Assured`, `Cucumber`, and `TestNG`.  
 
-Currently expanding my skill set into **Cloud**, **Containerization**, and **CI/CD pipelines** using tools like  
-`Docker`, `Kubernetes`, and `Jenkins`.  
+I’m also expanding into **DevOps** and **Cloud**, working with tools like  
+`Docker`, `Kubernetes`, and `Jenkins`, and exploring **AI-assisted testing** to boost efficiency.
 
 ---
 
@@ -35,21 +35,20 @@ Currently expanding my skill set into **Cloud**, **Containerization**, and **CI/
 
 | Certification | Badge |
 |:--------------|:------|
-| **Microsoft Certified: Azure Fundamentals** | ![Azure Badge](https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg) |
-| **AWS Certified Cloud Practitioner** | ![AWS Badge](https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge.6d39a59f1f2f2a5c3c5f57b6ccf7b6c7e6f0ed12.png) |
-| **BDD Cucumber Automation Tester** | ![Cucumber](https://cdn-icons-png.flaticon.com/512/889/889192.png) |
-| **Docker for Beginners (Udemy Labs)** | ![Docker](https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png) |
-| **HackerRank Java (Basic)** | ![HackerRank](https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png) |
+| **Microsoft Certified: Azure Fundamentals** | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="70"/> |
+| **AWS Certified Cloud Practitioner** | <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge.b89bfbf2f87a3b5db9c48a06c46c62a1e2b74cfe.png" width="70"/> |
+| **Docker for Beginners (Udemy Labs)** | <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="65"/> |
+| **HackerRank Java (Basic)** | <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="65"/> |
 
 ---
 
 ### 🚀 Highlights  
 
-✅ Built & maintained automation frameworks for Web, API, and Mobile  
-✅ Improved test suite reliability by migrating to **Appium v9**  
-✅ Enhanced API test frameworks using **Rest Assured (Java)**  
+✅ Built and maintained automation frameworks for **Web**, **API**, and **Mobile**  
+✅ Improved test suite stability by upgrading **Appium v6 → v9**  
+✅ Refactored API automation to **Rest Assured (Java)** for better maintainability  
 ✅ Contributed to **CI/CD automation** using Jenkins and Docker  
-✅ Always exploring **AI-assisted testing** to boost QA efficiency  
+✅ Focused on integrating **AI tools** into QA workflows  
 
 ---
 
@@ -64,7 +63,7 @@ Currently expanding my skill set into **Cloud**, **Containerization**, and **CI/
 
 ### ✨ Interests  
 
-- Test Automation Frameworks  
+- Test Automation & Framework Design  
 - DevOps + Cloud Integration  
 - AI-Assisted Testing  
 - Continuous Learning  
