@@ -2,6 +2,7 @@
 
 🎯 **Test Automation Engineer | DevOps Learner | Cloud Certified (AWS & Azure)** 
 
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/your-linkedin-username) 
 ---
 
 ### 🧠 About Me  
@@ -37,7 +38,3 @@ I’m currently expanding into **DevOps** and **Cloud**, working with tools like
 | **HackerRank Java** | <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="65"/> |
 
 ---
-
-<p align="center">
-  <a href="https://github.com/rathish2309"><img src="https://img.shields.io/badge/GitHub-rathish2309-black?style=flat&logo=github" /></a>
-</p>
