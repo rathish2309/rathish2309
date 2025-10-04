@@ -36,13 +36,19 @@ I specialize in designing **scalable and maintainable automation frameworks** us
 
 ---
 
-## 🧠 Certifications  
+## 🧠 Certifications & Badges  
 
-🏅 Microsoft Certified: Azure Fundamentals  
-🏅 AWS Certified Cloud Practitioner  
-🏅 BDD Cucumber Automation Tester  
-🏅 Docker for Beginners (Udemy Labs)  
-🏅 HackerRank Java (Basic)  
+<div align="center">
+
+| Certification | Badge |
+|:--------------|:------|
+| **Microsoft Certified: Azure Fundamentals** | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="100"/> |
+| **AWS Certified Cloud Practitioner** | <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge.6d39a59f1f2f2a5c3c5f57b6ccf7b6c7e6f0ed12.png" width="100"/> |
+| **Infosys Certified BDD Cucumber Automation Tester** | <img src="https://cdn-icons-png.flaticon.com/512/889/889192.png" width="80"/> |
+| **Udemy Labs – Docker for Beginners** | <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="80"/> |
+| **HackerRank Java (Basic)** | <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="80"/> |
+
+</div>
 
 ---
 
