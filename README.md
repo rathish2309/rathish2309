@@ -13,7 +13,9 @@ I work with **Java-based automation frameworks** — using **Selenium with Cucum
 I also leverage **GitHub Copilot** to enhance automation efficiency and framework scalability.  
 
 I’m currently expanding into **DevOps** and **Cloud**, working with tools like  
-`Docker`, `Kubernetes`, and `Jenkins`, and exploring modern approaches to optimize continuous testing and integration.
+`Docker`, `Kubernetes`, and `Jenkins`, and exploring modern approaches to optimize continuous testing and integration.  
+
+Looking ahead, I aim to pursue **CKAD** and **Terraform certifications**, achieve **Cloud Associate-level certifications**, and continuously **learn and upskill at every opportunity**.
 
 ---
 
