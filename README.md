@@ -8,12 +8,13 @@
 
 ### 👨‍💻 About Me
 
-I’m a QA Engineer with experience across **Web**, **API**, and **Mobile** test automation.  
-I work with **Java-based automation frameworks** — using **Selenium with Cucumber**, **Appium with TestNG**, and **Rest Assured** for API testing.  
-I also leverage **GitHub Copilot** to enhance automation efficiency and framework scalability.  
+I’m a Test Automation Engineer with 6 years of experience specialising in Web, Mobile, and API automation using Java, Selenium, Appium, TestNG, Cucumber (BDD), and Rest Assured.
 
-I’m currently expanding into **DevOps** and **Cloud**, working with tools like  
-`Docker`, `Kubernetes`, and `Jenkins`, and exploring modern approaches to optimize continuous testing and integration.  
+I focus on designing scalable automation frameworks, improving regression efficiency, and integrating automation into CI/CD pipelines using Jenkins to enable faster and more reliable releases.
+
+My work includes UI Automation , mobile automation (Android & iOS), API validation, accessibility testing (WCAG), and improving automation stability through better framework design and parallel execution strategies.
+
+I also leverage AI-assisted development tools like GitHub Copilot , open AI models and continuously explore Cloud & DevOps technologies such as Docker, Kubernetes, AWS, and Azure to build modern automation ecosystems.  
 
 ---
 
