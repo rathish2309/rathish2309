@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rathish Rajendran  
 
-🎯 **Test Automation Engineer | DevOps Learner | Cloud Certified (AWS & Azure)**  
+🎯 **Test Automation Engineer**  
 
 🔗 **[Connect with me on LinkedIn](https://www.linkedin.com/in/your-linkedin-username)** 🔹
 
@@ -20,13 +20,13 @@ I’m currently expanding into **DevOps** and **Cloud**, working with tools like
 ### ⚙️ Tech Stack  
 
 **Languages:**  
-☕ Java • 🐍 Python (basic)
+☕ Java • 🐍 Python 
 
 **Automation Tools:**  
 🧪 Selenium • 📱 Appium • 🌐 Rest Assured • 🧩 TestNG • 🍃 Cucumber  
 
 **DevOps & Cloud:**  
-🐳 Docker • ☸️ Kubernetes • 🔧 Jenkins • ☁️ AWS • 🔹 Azure  
+• 🔧 Jenkins • 🐳 Docker • ☸️ Kubernetes •☁️ AWS • 🔹 Azure  
 
 ---
 
